@@ -1,0 +1,15 @@
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\bin\Debug\net6.0\Empresa.exe
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\bin\Debug\net6.0\Empresa.deps.json
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\bin\Debug\net6.0\Empresa.runtimeconfig.json
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\bin\Debug\net6.0\Empresa.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\bin\Debug\net6.0\Empresa.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.csproj.AssemblyReference.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfoInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfo.cs
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.csproj.CoreCompileInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\refint\Empresa.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\Empresa.genruntimeconfig.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoEmpresa\Empresa\Empresa\obj\Debug\net6.0\ref\Empresa.dll
